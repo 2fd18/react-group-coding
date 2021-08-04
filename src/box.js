@@ -1,5 +1,6 @@
 import React from "react";
 import "./index.css";
+import { Link } from "react-router-dom";
 
 function Box(props) {
   return (
@@ -7,9 +8,9 @@ function Box(props) {
       <img id="img-box" src="https://via.placeholder.com/450" alt="place" />
       <div id="box2">
         {props.name}
-        <a href="learn.html">
+        <Link id="link" to="/learn">
           <button>Learn More</button>
-        </a>
+        </Link>
       </div>
     </div>
   );
