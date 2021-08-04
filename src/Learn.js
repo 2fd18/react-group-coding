@@ -10,14 +10,14 @@ function Learn() {
         <Navigation />
       </header>
       <body>
-        <img id="imgtop" src="https://via.placeholder.com/1800x400"></img>
+        <img id="imgtop" src="https://via.placeholder.com/1800x400" alt="image"/>
 
         <div class="container">
           <Link to="/"> Back to home page </Link>
-          <br></br>
-          <br></br>
+          <br />
+          <br />
           <h1>This is something exciting</h1>
-          <br></br>
+          <br />
           <p>
             Omeri preda piedi ove dai. Si no fu ricuperato ma discendere
             appoggiato. Puo glorioso che ambascia palpebre dio piangere pur. Dai
@@ -25,8 +25,8 @@ function Learn() {
             poco tra tuoi teco. Era perpetuato sui arrossendo lui sollevando
             esplorarne scacciarla sorridente. Fasce fiato magro lei oblio beata
             pel. In si sfugge valere quello strana fiamma svelto.
-            <br></br>
-            <br></br>
+            <br />
+            <br />
             Sottratta lui consolato rifiutera campeggia subitaneo noi.
             Piacerebbe sta cio allegrezza sgomentato oro. Nel finestre lasciami
             chiedere sai coglievi cimiteri scolpita. Somigliava visitatore
@@ -36,8 +36,8 @@ function Learn() {
             vaghe torno visto punge sarai animo ai. Fremito me il rimarro
             essenza calmati oh bagnava. The statuette guardando sai chi ove
             affannata.
-            <br></br>
-            <br></br>
+            <br />
+            <br />
             Rifiutare parentela brillanti rivedervi talismani par sai lei dir.
             Via dal trovare audacia dov nervose dov eravate. Periodo nel macchie
             salvato piu risorta mettere dinanzi non qui. Getti fuoco molte udire
